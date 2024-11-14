@@ -17,3 +17,9 @@ __pycache__/
 
 /notebooks/*wild.ipynb
 /experiments
+
+datasets/
+runs/
+venv/
+
+
